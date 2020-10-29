@@ -279,3 +279,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author: true
+#계층구조 보여주기      
+breadcrumb: true
