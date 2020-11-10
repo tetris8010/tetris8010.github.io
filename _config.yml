@@ -24,7 +24,7 @@ description              : "garden"
 url                      : "https://tetris8010.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tetris8010/tetris8010.github.io"
-teaser                   : #"/assets/images/bio_photo.jpg"
+teaser                   : "/assets/images/bio_photo.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
@@ -286,5 +286,3 @@ defaults:
     values:
       layout: single
       author: true
-#계층구조 보여주기      
-breadcrumb: true
